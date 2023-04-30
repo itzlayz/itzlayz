@@ -1,3 +1,5 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=otzlayz&count_private=true&show_icons=true&include_all_commits=true)
+# Github stats
+![Stats](https://github-readme-stats.vercel.app/api?username=itzlayz&count_private=true&show_icons=true&include_all_commits=true)
 <br>
+#Discord Status
 ![Discord](https://discord-readme-badge.vercel.app/api?id=749310266625228921)
