@@ -4,3 +4,6 @@
 <br><br>
 My stats <br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=itzlayz&count_private=true&show_icons=true&include_all_commits=true)
+
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@itzlayz&show_icons=true)
