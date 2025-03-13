@@ -1,5 +1,4 @@
 # 👋 Welcome to itzlayz's profile
-https://github-readme-streak-stats-eight.vercel.app
 
 ## 📊 My GitHub Stats
 | Contributions | GitHub Stats |
