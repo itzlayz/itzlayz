@@ -1,14 +1,23 @@
-![Profile Views](https://komarev.com/ghpvc/?username=itzlayz)
-[![Wakatime](https://wakatime.com/badge/user/380cfbb0-a568-4ead-b4d2-34962990d4f4.svg)](https://wakatime.com/@380cfbb0-a568-4ead-b4d2-34962990d4f4)
+# 👋 Welcome to itzlayz's profile
+https://github-readme-streak-stats-eight.vercel.app
 
-## Contributions
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itzlayz&theme=midnight-purple)](https://git.io/streak-stats)
+## 📊 My GitHub Stats
+| Contributions | GitHub Stats |
+|--------------|--------------|
+| [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=itzlayz&theme=midnight-purple)](https://git.io/streak-stats) | ![Github Stats](https://github-readme-stats.vercel.app/api?username=itzlayz&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple) |
 
-## Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itzlayz&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple)
+---
 
-## Wakatime
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@itzlayz&show_icons=true&theme=midnight-purple)
+## ⏳ Time Spent Coding
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@itzlayz&show_icons=true&theme=midnight-purple)
 
-## Most used languages
+---
+
+## 💡 Most Used Languages
 ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzlayz&layout=compact&theme=midnight-purple)
+
+---
+
+## 📬 Contacts
+📌 Telegram: [@itzlayz](https://t.me/itzlayz)  
+📌 Email: broitzlayz@gmail.com  
